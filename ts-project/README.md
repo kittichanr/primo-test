@@ -2,14 +2,14 @@
 
 ## merge-sort-project
 
-go to folder ts-project
+go to folder `ts-project`
 
-cd ts-project
+`cd ts-project`
 
 Install dependencies
 
-yarn install
+`yarn install`
 
 run script test function mergeSort
 
-yarn test
+`yarn test`
